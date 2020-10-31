@@ -1,4 +1,4 @@
-#!/usr/bin/python2
+of#!/usr/bin/python2
 #coding=utf-8
 
 
